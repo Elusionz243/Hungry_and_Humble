@@ -1,0 +1,26 @@
+[
+  {
+    "project_title": "Project Title 1",
+    "project_url": "https://youtube.com",
+    "project_category": "Music Video",
+    "project_description": "This is a test description to make sure the database is working correctly"
+  },
+  {
+    "project_title": "Project Title 2",
+    "project_url": "https://youtube.com/123",
+    "project_category": "Lyric Video",
+    "project_description": "This is a test description to make sure the database is working correctly"
+  },
+  {
+    "project_title": "Project Title 3",
+    "project_url": "https://youtube.com/456",
+    "project_category": "Advertisement",
+    "project_description": "This is a test description to make sure the database is working correctly"
+  },
+  {
+    "project_title": "Project Title 4",
+    "project_url": "https://youtube.com/789",
+    "project_category": "Music Video",
+    "project_description": "This is a test description to make sure the database is working correctly"
+  }
+]
