@@ -1,0 +1,34 @@
+[
+  {
+    "user_name": "JohnDoe123",
+    "user_first_name": "John",
+    "user_last_name": "Doe",
+    "user_profile_picture": "https://picsum.photos/200",
+    "user_bio": "John Doe reporting for duty.",
+    "user_gender": "male"
+  },
+  {
+    "user_name": "JohnDoe456",
+    "user_first_name": "Jon",
+    "user_last_name": "Doe",
+    "user_profile_picture": "https://picsum.photos/200",
+    "user_bio": "This is a sample bio",
+    "user_gender": "male"
+  },
+  {
+    "user_name": "JohnDoe789",
+    "user_first_name": "Johnathan",
+    "user_last_name": "Doe",
+    "user_profile_picture": "https://picsum.photos/200",
+    "user_bio": "This is another sample bio",
+    "user_gender": "male"
+  },
+  {
+    "user_name": "JohnDoe2021",
+    "user_first_name": "Johnathon",
+    "user_last_name": "Doe",
+    "user_profile_picture": "https://picsum.photos/200",
+    "user_bio": "What's a biography?",
+    "user_gender": "male"
+  }
+]

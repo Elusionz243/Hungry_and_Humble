@@ -1,17 +1,17 @@
 const router = require('express').Router();
 
-const controller = require('./projects.controller');
+const controller = require('./reviews.controller');
 
 const methodNotAllowed = require('../errors/methodNotAllowed');
 
 router.route('/')
   .get(controller.list)
-  .post(controller.createProject)
+  .post(controller.createReview)
   .all(methodNotAllowed);
 
-router.route('/:project_id')
-  .get(controller.findProjectByID)
-  .put(controller.updateProject)
+router.route('/:review_id')
+  .get(controller.findReviewByID)
+  .put(controller.updateReview)
   .all(methodNotAllowed);
 
 module.exports = router;

@@ -1,0 +1,22 @@
+[
+  {
+    "review_author": "JohnDoe123",
+    "review_message": "This is a review message",
+    "review_rating": 5
+  },
+  {
+    "review_author": "JohnDoe456",
+    "review_message": "This is a review message",
+    "review_rating": 4
+  },
+  {
+    "review_author": "JohnDoe789",
+    "review_message": "This is a review message",
+    "review_rating": 3.5
+  },
+  {
+    "review_author": "JohnDoe2021",
+    "review_message": "This is a review message",
+    "review_rating": 2.5
+  }
+]
